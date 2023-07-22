@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning java
 
 - 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ayiTech1/ayiTech1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
